@@ -12,11 +12,9 @@ Esse game consiste em ficar pressionando a tecla "seta para cima" para que o pá
 
 <h3>Imagens do projeto:</h3>
 <div>
- <img width="300px" src="https://i.imgur.com/CJDuFmH.png" alt="imagem do projeto" >
- <img width="300px" src="https://i.imgur.com/Axuf6k3.png" alt="imagem do projeto" >
- <img width="300px" src="https://i.imgur.com/AQ0LKJ5.png" alt="imagem do projeto" >
+ <img width="300px" src="https://i.imgur.com/CJDuFmH.png" alt="imagem do projeto" ><br>
+ <img width="300px" src="https://i.imgur.com/Axuf6k3.png" alt="imagem do projeto" ><br>
+ <img width="300px" src="https://i.imgur.com/AQ0LKJ5.png" alt="imagem do projeto" ><br>
 </div>
 <br>
 
-<h3>O projeto pode ser encontrado em:</h3><br>
- https://sorayaribeiro.github.io/Game-Bird/
