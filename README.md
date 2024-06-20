@@ -18,3 +18,5 @@ Esse game consiste em ficar pressionando a tecla "seta para cima" para que o pá
 </div>
 <br>
 
+##Link do projeto
+https://sorayaalr.github.io/Game-Bird/
