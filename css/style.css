@@ -14,8 +14,8 @@
     background-size: cover;
 }
 .bird {
-	height: 80px;
-	width: 104px;
+	height: 70px;
+	width: 91px;
 	position: fixed;
 	top: 40vh;
 	left: 30vw;
@@ -50,7 +50,7 @@
 	position: fixed;
 	z-index: 10;
 	height: 10vh;
-	font-size: 10vh;
+	font-size: 8vh;
 	font-weight: 100;
 	color: white;
 	-webkit-text-stroke-width: 2px;
